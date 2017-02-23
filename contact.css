@@ -1,0 +1,70 @@
+/* ::::: http://www.ronmorrispottery.com/content/modules/node/node.css?x ::::: */
+
+/* ::::: http://www.ronmorrispottery.com/content/modules/system/defaults.css?x ::::: */
+
+form { margin: 0px; padding: 0px; }
+table { border-collapse: collapse; }
+.clear-block::after { content: "."; display: block; height: 0px; clear: both; visibility: hidden; }
+/* ::::: http://www.ronmorrispottery.com/content/modules/system/system.css?x ::::: */
+
+tbody { border-top: 1px solid rgb(204, 204, 204); }
+/* ::::: http://www.ronmorrispottery.com/content/modules/system/system-menus.css?x ::::: */
+
+/* ::::: http://www.ronmorrispottery.com/content/modules/user/user.css?x ::::: */
+
+/* ::::: http://www.ronmorrispottery.com/content/sites/all/modules/cck/theme/content-module.css?x ::::: */
+
+/* ::::: http://www.ronmorrispottery.com/content/sites/all/modules/date/date.css?x ::::: */
+
+.date-clear-block::after { content: " "; display: block; height: 0px; clear: both; visibility: hidden; }
+/* ::::: http://www.ronmorrispottery.com/content/sites/all/modules/date/date_popup/themes/datepicker.css?x ::::: */
+
+/* ::::: http://www.ronmorrispottery.com/content/sites/all/modules/date/date_popup/themes/timeentry.css?x ::::: */
+
+/* ::::: http://www.ronmorrispottery.com/content/sites/all/modules/filefield/filefield.css?x ::::: */
+
+/* ::::: http://www.ronmorrispottery.com/content/sites/all/modules/imagefield/imagefield.css?x ::::: */
+
+/* ::::: http://www.ronmorrispottery.com/content/sites/all/modules/thickbox/thickbox.css?x ::::: */
+
+/* ::::: http://www.ronmorrispottery.com/content/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?x ::::: */
+
+/* ::::: http://www.ronmorrispottery.com/content/sites/all/themes/ronmorris/style.css?x ::::: */
+
+/* ::::: http://www.ronmorrispottery.com/content/sites/all/themes/ronmorris/css/nav.css ::::: */
+
+#navigation { width: 404px; margin: 0px; top: 0px; left: 0px; padding: 0px; }
+#navigation { margin: 0px; padding: 0px; }
+#navigation li { display: inline; padding-top: 80px; margin-top: 40px; }
+#navigation li a { float: left; height: 0px; overflow: hidden; }
+#navigation li a { background-image: url('nav.gif'); background-repeat: no-repeat; }
+#navigation li#nav-pottery a { width: 404px; height: 0px; padding-top: 60px; background-position: 0px 0px; }
+#navigation li#nav-sculptures a { width: 404px; height: 0px; padding-top: 70px; background-position: 0px -60px; }
+#navigation li#nav-encaustic-drawings a { width: 404px; height: 0px; padding-top: 70px; background-position: 0px -130px; }
+#navigation li#nav-contact a { width: 404px; height: 0px; padding-top: 70px; background-position: 0px -195px; }
+#navigation li#nav-pottery a:hover { background-position: -808px 0px; }
+#navigation li#nav-sculptures a:hover { background-position: -808px -60px; }
+#navigation li#nav-encaustic-drawings a:hover { background-position: -808px -130px; }
+#navigation li#nav-contact a:hover { background-position: -808px -195px; }
+#subpage #navigation { width: 960px; margin: 0px; top: 0px; left: 0px; padding: 0px; position: relative; }
+#subpage #navigation { margin: 0px; padding: 0px; }
+#subpage #navigation li { display: inline; padding-top: 40px; }
+#subpage #navigation li a { float: left; height: 0px; overflow: hidden; }
+#subpage #navigation li a { background-image: url('nav-sub.gif'); background-repeat: no-repeat; }
+#subpage #navigation li#nav-pottery a { width: 102px; height: 0px; padding-top: 30px; background-position: -100px -2px; }
+#subpage #navigation li#nav-sculptures a { width: 122px; height: 0px; padding-top: 35px; background-position: -80px -32px; }
+#subpage #navigation li#nav-encaustic-drawings a { width: 202px; height: 0px; padding-top: 30px; background-position: 0px -67px; }
+#subpage #navigation li#nav-contact a { width: 102px; height: 0px; padding-top: 30px; background-position: -100px -96px; }
+#subpage #navigation li#nav-pottery a:hover { background-position: -504px -2px; }
+#subpage #navigation li#nav-sculptures a:hover { background-position: -484px -32px; }
+#subpage #navigation li#nav-encaustic-drawings a:hover { background-position: -404px -67px; }
+#subpage #navigation li#nav-contact a:hover { background-position: -504px -96px; }
+/* ::::: http://www.ronmorrispottery.com/content/sites/all/themes/ronmorris/css/style.css ::::: */
+
+h1 { margin: 0px; }
+#front-nav-div { float: left; width: 404px; margin-left: 160px; }
+#subpage #front-nav-div { float: left; width: 404px; margin-left: 0px; clear: left; }
+#disclaimer { float: left; margin-top: 30px; font-style: oblique; color: rgb(87, 87, 87); width: 100%; text-align: center; }
+#logo { width: 653px; height: 163px; position: relative; }
+#logo span { background: transparent url('logo.gif') no-repeat scroll 0% 0%; position: absolute; width: 653px; height: 163px; }
+#container { font-family: Verdana,Geneva,Arial,sans-serif; height: 215px; left: 50%; margin-left: -480px; position: absolute; visibility: visible; width: 960px; }
